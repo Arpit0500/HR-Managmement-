@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+   font-family: 'Poppins', sans-serif;
+  }
+  
+.head p
+{
+    margin-top: 5px;
+    background-color: white;
+    padding: 5px;
+    padding-top: 3px;
+    padding-left: 20px;
+    width: 2100px;
+    height: 40px;
+    font-family: Verdana;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 3px solid magenta;
+}
+
+.btn
+{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.btn .btn-1
+{
+    
+    display: inline-flex;
+    align-items: center;
+    color: black;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    margin-top: 10px;
+    width: 185px;
+    height: 35px;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn .btn-2
+{
+    display: inline-flex;
+    align-items: center;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    margin-top: 10px;
+    width: 200px;
+    height: 35px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box1
+{
+    background-color: white;
+    width: 1000px;
+    height: 100%;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.box1 p
+{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 550;
+}
+
+.box1 input
+{
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.box1 button
+{
+    display: inline-flex;
+    align-items: center;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    margin-top: 10px;
+    width: 120px;
+    height: 45px;
+    /*margin-left: 150px;*/
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.box1 button:hover
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.name
+{
+    font-size: 22px;
+    margin-left: 40px; 
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.mid 
+{
+    margin-left: 110px;
+    font-size: 22px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.end 
+{
+    margin-left: 50px;
+    font-size: 22px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+select
+{
+    width: 254px;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.box2
+{
+    background-color: white;
+    /*width: 2100px;*/
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.box2 p
+{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 550;
+}
